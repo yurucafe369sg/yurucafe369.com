@@ -870,12 +870,12 @@ body.nav-menu-open .menu-toggle {
 
 @media (max-width: 640px) {
     .hero {
-        background: linear-gradient(120deg, rgba(5, 7, 13, 0.85), rgba(5, 7, 13, 0.6)),
+        background: linear-gradient(120deg, rgba(5, 7, 13, 0.82), rgba(5, 7, 13, 0.52)),
                     url('images/burger/morning-mist-black-cat-giant-burger.webp') center/cover no-repeat;
     }
 
     .hero::after {
-        background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent 65%);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.025), transparent 70%);
     }
 
     .menu-item-image img {
