@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7ff9c" />
+      <stop offset="100%" stop-color="#f7c24f" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#1b1f2a" rx="24" />
+  <circle cx="150" cy="110" r="36" stroke="#ffd95b" stroke-width="3" fill="none" opacity="0.7" />
+  <circle cx="450" cy="250" r="48" stroke="#ffe87a" stroke-width="2" fill="none" opacity="0.5" />
+  <rect x="120" y="160" width="360" height="140" fill="url(#grad)" rx="32" opacity="0.85" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Space Grotesk', 'Noto Sans JP', sans-serif" font-size="32" fill="#352100" letter-spacing="6">
+    LEMONADE
+  </text>
+  <text x="50%" y="64%" dominant-baseline="middle" text-anchor="middle" font-size="22" fill="#3d2600" font-family="'Space Grotesk', 'Noto Sans JP', sans-serif">
+    MOON-INFUSED
+  </text>
+</svg>
